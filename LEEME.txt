@@ -1,0 +1,12 @@
+LA VOZ DE PROGRESO — APP ANDROID
+
+Proyecto Android que abre https://lavozdeprogreso.com/ en una vista web integrada.
+
+Compatibilidad configurada: Android 5.0 (API 21) en adelante. El audio y algunas funciones dependen de Android System WebView del teléfono. Android 1–4 no es compatible con esta compilación.
+
+Nombre: La Voz de Progreso
+Colores: azul oscuro #0C2749 y dorado #D3A63F.
+Paquete: com.lavozdeprogreso.app
+Funciones: navegación atrás, JavaScript y almacenamiento web habilitados, audio tras interacción del usuario, indicador de carga.
+
+Para compilar: Android Studio con Android SDK Platform 35 y JDK 17. Abra esta carpeta en Android Studio y use Build > Build Bundle(s) / APK(s) > Build APK(s).
